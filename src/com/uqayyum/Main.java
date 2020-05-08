@@ -8,6 +8,6 @@ package com.uqayyum;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Kickoff");
+        MomentoPattern.TestMomentoFlow();
     }
 }
